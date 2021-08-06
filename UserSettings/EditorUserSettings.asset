@@ -9,34 +9,34 @@ EditorUserSettings:
       value: 183b144645154b6805011b0314355e1e15121c1d233a2a343e6b4773f6f2213d88fa
       flags: 0
     RecentlyUsedScenePath-0:
-      value: 22424703114646680e0b0227036c52110604572b3e2d283112261b0cf6ef383df0e638eae2753c303007e1284a2b0f36e613
-      flags: 0
-    RecentlyUsedScenePath-1:
       value: 22424703114646680e0b0227036c52110604572b3e2d283112261b0cf6ef383df0e638eae2753c303007e128103b122bbc1f0702e212
       flags: 0
-    RecentlyUsedScenePath-2:
+    RecentlyUsedScenePath-1:
       value: 22424703114646680e0b0227036c7a1d060301192f2d2835633c133af6f9
       flags: 0
-    RecentlyUsedScenePath-3:
+    RecentlyUsedScenePath-2:
       value: 22424703114646680e0b0227036c6b1505032d24253c0926283b0b3ae7f77a2decee22f0
       flags: 0
-    RecentlyUsedScenePath-4:
+    RecentlyUsedScenePath-3:
       value: 5b54500750075f085f5b097214700d444e16417c287b72317e7f4e62b5b1366e
       flags: 0
-    RecentlyUsedScenePath-5:
+    RecentlyUsedScenePath-4:
       value: 56040c5157530b080c5e097247220e444e15197d797f7467747c1830e6b6316e
       flags: 0
-    RecentlyUsedScenePath-6:
+    RecentlyUsedScenePath-5:
       value: 505252005c03505d550b592449735c444e4f1928292d243329284535b3e53739
       flags: 0
-    RecentlyUsedScenePath-7:
+    RecentlyUsedScenePath-6:
       value: 5209000254000a5e55595d211471094414151a287f782563787d4f61e3b96c6b
       flags: 0
-    RecentlyUsedScenePath-8:
+    RecentlyUsedScenePath-7:
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
       flags: 0
-    RecentlyUsedScenePath-9:
+    RecentlyUsedScenePath-8:
       value: 5a03075554030f5f5d5c097649730644464f1b782d2e27617a784a66b1e1326f
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 070255525d0c5f5d5c5d5d7614205a444e4e19797b7a7768297c1964b1b0643b
       flags: 0
     UnityEditor.ShaderGraph.Blackboard:
       value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a560393d3511ea7046333e09f7181d02f50a06241708ee0b05bd4a3d10eb548717f73713d91006c1c309d0effad0d2f9ddffa582f0de8ebeb6fdd1cbfceba0b9f0b3bed8e8f5d0b0818e85dd839099c5e2dbd4
@@ -52,6 +52,9 @@ EditorUserSettings:
       flags: 0
     lightmappingDeviceAndPlatform:
       value: 53
+      flags: 0
+    unity-properties__ui-persistent-state:
+      value: 183b144645154b7d0202082d05376c0417031d6876681d0d61435d73a2a07608e3e03fe7e62e36333731fb3d103b4365b2313461eb
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
