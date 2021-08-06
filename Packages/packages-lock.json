@@ -385,7 +385,7 @@
       }
     },
     "package.patapon.core": {
-      "version": "file:C:/Users/guerr/Documents/Projets/Common/Packages/package.patapon.core",
+      "version": "file:../../../../Common/Packages/package.patapon.core",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -396,13 +396,13 @@
       }
     },
     "package.patapon.masterserver.shared": {
-      "version": "file:C:/Users/guerr/Documents/Projets/Common/Packages/package.patapon.masterserver.shared/Generated",
+      "version": "file:../../../../Common/Packages/package.patapon.masterserver.shared/Generated",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "package.stormiumteam.gamebase": {
-      "version": "file:C:/Users/guerr/Documents/Projets/Common/Packages/package.stormiumteam.gamebase",
+      "version": "file:../../../../Common/Packages/package.stormiumteam.gamebase",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -411,7 +411,7 @@
       }
     },
     "package.stormiumteam.shared": {
-      "version": "file:C:/Users/guerr/Documents/Projets/Common/Packages/package.stormiumteam.shared",
+      "version": "file:../../../../Common/Packages/package.stormiumteam.shared",
       "depth": 0,
       "source": "local",
       "dependencies": {

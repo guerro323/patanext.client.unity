@@ -1,0 +1,12 @@
+Build Time : 2021-08-06 17:59:29
+
+----File Path : C:/Users/guerr/Documents/Projets/Patapon/Experiments/patanext.client.unity/LocalBundles\StandaloneWindows64/st.pn----
+   0.00009 mb - Packages/com.unity.ugui/Runtime/UI/Core/Toggle.cs
+
+----File Path : C:/Users/guerr/Documents/Projets/Patapon/Experiments/patanext.client.unity/LocalBundles\StandaloneWindows64/st.pnmaps----
+   0.00012 mb - Packages/package.stormiumteam.shared/Scripts/Behaviours/UpdateManager.cs
+
+----File Path : C:/Users/guerr/Documents/Projets/Patapon/Experiments/patanext.client.unity/LocalBundles\StandaloneWindows64/Shared_e260cfa7296ee7642b167f1eb5be5023----
+
+----File Path : C:/Users/guerr/Documents/Projets/Patapon/Experiments/patanext.client.unity/LocalBundles\StandaloneWindows64/Shared_fc4af43bf8169c544a4eb3f76b9e1612----
+
