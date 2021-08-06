@@ -1,0 +1,15 @@
+{
+    "id": "st.pn/mission/test",
+    "name": "MapTest",
+    "description": "Topkek",
+    "bundle": "st.pnmaps",
+    "addrPrefix": "Default_ArenaOfTolerance_",
+    "clientScenes":
+    [
+        "client"
+    ],
+    "serverScenes":
+    [
+        "server"
+    ]
+}

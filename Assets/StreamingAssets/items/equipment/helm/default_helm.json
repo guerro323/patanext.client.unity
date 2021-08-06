@@ -1,0 +1,13 @@
+{
+    "displayName": "Default Helm",
+    "description": "My Beautiful Description",
+    "statistics":
+    {
+        "base":
+        {
+            "health": 10,
+            "defense": 10,
+            "weight": 6
+        }
+    }
+}

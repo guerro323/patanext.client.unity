@@ -1,0 +1,254 @@
+ (0,0): Unity incremental compiler server
+ (0,0): watchdog active on pid: 15204
+ (0,0): [10/01/2018 11:34:13.088 AM] Unity.Collections.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.136 AM] Unity.2D.Triangle.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.337 AM] Unity.VectorGraphics.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.354 AM] Unity.VectorGraphics.dll compiling...
+ (0,0): [10/01/2018 11:34:13.800 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.812 AM] Unity.2D.Common.Runtime.dll compiling...
+ (0,0): [10/01/2018 11:34:13.859 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.891 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:13.950 AM] Unity.CollabProxy.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:13.962 AM] Unity.CollabProxy.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:17.216 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InternalAPIEngineBridge.001.dll
+ (0,0): [10/01/2018 11:34:17.217 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Common.Runtime.dll
+ (0,0): [10/01/2018 11:34:17.267 AM] Unity.Burst.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Burst.dll
+ (0,0): [10/01/2018 11:34:17.310 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 3553ms  source files re-parsed: 2 metadata reloaded: 93
+ (0,0): [10/01/2018 11:34:17.314 AM] Unity.Burst.dll compilation finished in 3677ms  source files re-parsed: 2 metadata reloaded: 96
+ (0,0): [10/01/2018 11:34:17.310 AM] Unity.Collections.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Collections.dll
+ (0,0): [10/01/2018 11:34:17.388 AM] Unity.2D.Common.Runtime.dll compilation finished in 3575ms  source files re-parsed: 1 metadata reloaded: 88
+ (0,0): [10/01/2018 11:34:17.410 AM] Unity.CollabProxy.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.CollabProxy.Editor.dll
+ (0,0): [10/01/2018 11:34:17.567 AM] Unity.CollabProxy.Editor.dll compilation finished in 3604ms  source files re-parsed: 17 metadata reloaded: 101
+ (0,0): [10/01/2018 11:34:17.578 AM] Unity.Collections.dll compilation finished in 4472ms  source files re-parsed: 11 metadata reloaded: 196
+ (0,0): [10/01/2018 11:34:17.813 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/01/2018 11:34:17.839 AM] Unity.2D.Triangle.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Triangle.Runtime.dll
+ (0,0): [10/01/2018 11:34:17.878 AM] Unity.Properties.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Properties.dll
+ (0,0): [10/01/2018 11:34:18.055 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 4164ms  source files re-parsed: 52 metadata reloaded: 116
+ (0,0): [10/01/2018 11:34:18.094 AM] Unity.Properties.dll compilation finished in 4462ms  source files re-parsed: 34 metadata reloaded: 97
+ (0,0): [10/01/2018 11:34:18.107 AM] Unity.2D.Triangle.Runtime.dll compilation finished in 4958ms  source files re-parsed: 86 metadata reloaded: 179
+ (0,0): [10/01/2018 11:34:18.241 AM] Unity.VectorGraphics.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.VectorGraphics.dll
+ (0,0): [10/01/2018 11:34:18.686 AM] Unity.InternalAPIEditorBridge.003.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:18.702 AM] Unity.InternalAPIEditorBridge.003.dll compiling...
+ (0,0): [10/01/2018 11:34:18.775 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:18.843 AM] Unity.2D.Animation.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:18.919 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:19.048 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:19.068 AM] Unity.Burst.Editor.dll compilation finished in 279ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:19.069 AM] Unity.2D.Common.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:19.091 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/01/2018 11:34:19.115 AM] Unity.2D.Animation.Runtime.dll compilation finished in 243ms  source files re-parsed: 4 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:19.189 AM] Unity.InputSystem.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InputSystem.dll
+ (0,0): [10/01/2018 11:34:19.191 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Common.Editor.dll
+ (0,0): [10/01/2018 11:34:19.218 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.SpriteShape.Runtime.dll
+ (0,0): [10/01/2018 11:34:19.275 AM] Unity.TextMeshPro.dll compilation finished in 5952ms  source files re-parsed: 45 metadata reloaded: 109
+ (0,0): [10/01/2018 11:34:19.309 AM] Unity.2D.Common.Editor.dll compilation finished in 240ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:19.319 AM] Unity.InputSystem.dll compilation finished in 5996ms  source files re-parsed: 220 metadata reloaded: 110
+ (0,0): [10/01/2018 11:34:19.359 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 427ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:19.437 AM] Unity.Analytics.Android.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:19.450 AM] Unity.Analytics.Android.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:19.484 AM] Unity.Analytics.Android.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Analytics.Android.Editor.dll
+ (0,0): [10/01/2018 11:34:19.522 AM] Unity.Analytics.Android.Editor.dll compilation finished in 71ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:19.649 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:19.661 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:19.855 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Properties.Editor.dll
+ (0,0): [10/01/2018 11:34:19.913 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Mathematics.dll
+ (0,0): [10/01/2018 11:34:19.961 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:19.974 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [10/01/2018 11:34:20.023 AM] Unity.Mathematics.dll compilation finished in 6700ms  source files re-parsed: 83 metadata reloaded: 110
+ (0,0): [10/01/2018 11:34:20.067 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:20.079 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
+ (0,0): [10/01/2018 11:34:20.094 AM] Unity.Properties.Codegen.dll compilation finished in 120ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:20.111 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InternalAPIEditorBridge.001.dll
+ (0,0): [10/01/2018 11:34:20.146 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 67ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:20.374 AM] Unity.VectorGraphics.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:20.386 AM] Unity.VectorGraphics.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:20.485 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:20.497 AM] Unity.2D.SpriteShape.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:20.534 AM] Unity.VectorGraphics.Editor.dll compilation finished in 148ms  source files re-parsed: 5 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:20.648 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.SpriteShape.Editor.dll
+ (0,0): [10/01/2018 11:34:20.748 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 250ms  source files re-parsed: 20 metadata reloaded: 3
+ (0,0): [10/01/2018 11:34:20.774 AM] Unity.2D.Animation.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:20.787 AM] Unity.2D.Animation.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:21.070 AM] Unity.2D.Animation.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Animation.Editor.dll
+ (0,0): [10/01/2018 11:34:21.144 AM] Unity.2D.Animation.Editor.dll compilation finished in 358ms  source files re-parsed: 62 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:21.291 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:21.302 AM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:21.522 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/01/2018 11:34:21.671 AM] Unity.TextMeshPro.Editor.dll compilation finished in 369ms  source files re-parsed: 40 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:22.235 AM] Unity.Entities.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:22.247 AM] Unity.Entities.dll compiling...
+ (0,0): [10/01/2018 11:34:22.431 AM] Unity.Jobs.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:22.452 AM] Unity.Jobs.dll compiling...
+ (0,0): [10/01/2018 11:34:22.492 AM] Unity.Jobs.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Jobs.dll
+ (0,0): [10/01/2018 11:34:22.522 AM] Unity.Entities.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.dll
+ (0,0): [10/01/2018 11:34:22.527 AM] Unity.Jobs.dll compilation finished in 75ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:22.605 AM] Unity.Entities.dll compilation finished in 357ms  source files re-parsed: 56 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:22.872 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:22.885 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:22.918 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Jobs.Editor.dll
+ (0,0): [10/01/2018 11:34:22.950 AM] Unity.Jobs.Editor.dll compilation finished in 65ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:24.212 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:24.225 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:24.275 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [10/01/2018 11:34:24.338 AM] Unity.Entities.Hybrid.dll compilation finished in 113ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:24.931 AM] package.guerro.shared.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:24.943 AM] package.guerro.shared.dll compiling...
+ (0,0): [10/01/2018 11:34:25.078 AM] Unity.Transforms.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:25.091 AM] Unity.Transforms.dll compiling...
+ (0,0): [10/01/2018 11:34:25.091 AM] package.guerro.shared.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\package.guerro.shared.dll
+ (0,0): [10/01/2018 11:34:25.116 AM] package.guerro.shared.dll compilation finished in 172ms  source files re-parsed: 53 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:25.195 AM] Unity.Transforms.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Transforms.dll
+ (0,0): [10/01/2018 11:34:25.256 AM] Unity.Transforms.dll compilation finished in 165ms  source files re-parsed: 8 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:25.779 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:25.791 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [10/01/2018 11:34:25.846 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.Properties.dll
+ (0,0): [10/01/2018 11:34:25.868 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:25.880 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:25.896 AM] Unity.Entities.Properties.dll compilation finished in 105ms  source files re-parsed: 4 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:25.933 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [10/01/2018 11:34:25.968 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:25.979 AM] Unity.Rendering.Hybrid.dll compilation finished in 99ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:25.980 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:26.020 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [10/01/2018 11:34:26.056 AM] Unity.Transforms.Hybrid.dll compilation finished in 76ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:26.337 AM] Unity.Entities.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:26.349 AM] Unity.Entities.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:26.459 AM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.Editor.dll
+ (0,0): [10/01/2018 11:34:26.525 AM] Unity.Entities.Editor.dll compilation finished in 176ms  source files re-parsed: 21 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:36.558 AM] Unity.Collections.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:36.570 AM] Unity.Collections.dll compiling...
+ (0,0): [10/01/2018 11:34:36.634 AM] Unity.Collections.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Collections.dll
+ (0,0): [10/01/2018 11:34:36.635 AM] Unity.InputSystem.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:36.647 AM] Unity.InputSystem.dll compiling...
+ (0,0): [10/01/2018 11:34:36.782 AM] Unity.Collections.dll compilation finished in 213ms  source files re-parsed: 11 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:36.797 AM] Unity.2D.Triangle.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:36.812 AM] Unity.2D.Triangle.Runtime.dll compiling...
+ (0,0): [10/01/2018 11:34:36.928 AM] Unity.VectorGraphics.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:36.941 AM] Unity.VectorGraphics.dll compiling...
+ (0,0): [10/01/2018 11:34:36.999 AM] Unity.Mathematics.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:37.043 AM] Unity.Mathematics.dll compiling...
+ (0,0): [10/01/2018 11:34:37.135 AM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:37.154 AM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/01/2018 11:34:37.780 AM] Unity.Properties.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:37.818 AM] Unity.Properties.dll compiling...
+ (0,0): [10/01/2018 11:34:37.780 AM] Unity.Burst.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:37.847 AM] Unity.2D.Triangle.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Triangle.Runtime.dll
+ (0,0): [10/01/2018 11:34:37.866 AM] Unity.Burst.dll compiling...
+ (0,0): [10/01/2018 11:34:38.007 AM] Unity.Burst.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Burst.dll
+ (0,0): [10/01/2018 11:34:38.030 AM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:38.101 AM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:38.314 AM] Unity.2D.Triangle.Runtime.dll compilation finished in 1502ms  source files re-parsed: 86 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:38.427 AM] Unity.VectorGraphics.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.VectorGraphics.dll
+ (0,0): [10/01/2018 11:34:38.447 AM] Unity.InternalAPIEngineBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:38.619 AM] Unity.InternalAPIEngineBridge.001.dll compiling...
+ (0,0): [10/01/2018 11:34:38.695 AM] Unity.Burst.dll compilation finished in 828ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:38.852 AM] Unity.2D.Common.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:38.900 AM] Unity.VectorGraphics.dll compilation finished in 1958ms  source files re-parsed: 23 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:38.900 AM] Unity.2D.Common.Runtime.dll compiling...
+ (0,0): [10/01/2018 11:34:39.008 AM] Unity.Properties.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Properties.dll
+ (0,0): [10/01/2018 11:34:39.062 AM] Unity.InternalAPIEngineBridge.001.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InternalAPIEngineBridge.001.dll
+ (0,0): [10/01/2018 11:34:39.261 AM] Unity.InputSystem.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InputSystem.dll
+ (0,0): [10/01/2018 11:34:39.317 AM] Unity.InternalAPIEngineBridge.001.dll compilation finished in 698ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.358 AM] Unity.2D.Common.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Common.Runtime.dll
+ (0,0): [10/01/2018 11:34:39.358 AM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/01/2018 11:34:39.386 AM] Unity.CollabProxy.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:39.417 AM] Unity.CollabProxy.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:39.457 AM] Unity.Properties.dll compilation finished in 1639ms  source files re-parsed: 34 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.474 AM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/01/2018 11:34:39.552 AM] Unity.InternalAPIEditorBridge.003.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:39.557 AM] Unity.InputSystem.dll compilation finished in 2909ms  source files re-parsed: 220 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.602 AM] Unity.2D.Common.Runtime.dll compilation finished in 700ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.672 AM] Unity.InternalAPIEditorBridge.003.dll compiling...
+ (0,0): [10/01/2018 11:34:39.751 AM] Unity.PackageManagerUI.Editor.dll compilation finished in 1649ms  source files re-parsed: 52 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.860 AM] Unity.CollabProxy.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.CollabProxy.Editor.dll
+ (0,0): [10/01/2018 11:34:39.866 AM] Unity.TextMeshPro.dll compilation finished in 2711ms  source files re-parsed: 45 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:39.873 AM] Unity.InternalAPIEditorBridge.003.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InternalAPIEditorBridge.003.dll
+ (0,0): [10/01/2018 11:34:39.943 AM] Unity.InternalAPIEditorBridge.003.dll compilation finished in 271ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:40.005 AM] Unity.CollabProxy.Editor.dll compilation finished in 587ms  source files re-parsed: 17 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:40.423 AM] Unity.2D.SpriteShape.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:40.436 AM] Unity.2D.SpriteShape.Runtime.dll compiling...
+ (0,0): [10/01/2018 11:34:40.574 AM] Unity.2D.Animation.Runtime.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:40.614 AM] Unity.2D.Animation.Runtime.dll compiling...
+ (0,0): [10/01/2018 11:34:40.639 AM] Unity.2D.Common.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:40.661 AM] Unity.2D.Common.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:40.661 AM] Unity.2D.SpriteShape.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.SpriteShape.Runtime.dll
+ (0,0): [10/01/2018 11:34:40.697 AM] Unity.2D.Animation.Runtime.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Animation.Runtime.dll
+ (0,0): [10/01/2018 11:34:40.735 AM] Unity.2D.Common.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Common.Editor.dll
+ (0,0): [10/01/2018 11:34:40.807 AM] Unity.2D.Animation.Runtime.dll compilation finished in 192ms  source files re-parsed: 4 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:40.808 AM] Unity.2D.SpriteShape.Runtime.dll compilation finished in 372ms  source files re-parsed: 6 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:40.821 AM] Unity.2D.Common.Editor.dll compilation finished in 160ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:40.979 AM] Unity.Mathematics.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Mathematics.dll
+ (0,0): [10/01/2018 11:34:41.059 AM] Unity.Mathematics.dll compilation finished in 4015ms  source files re-parsed: 83 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:41.352 AM] Unity.Properties.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:41.365 AM] Unity.Properties.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:41.484 AM] Unity.VectorGraphics.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:41.496 AM] Unity.VectorGraphics.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:41.499 AM] Unity.Properties.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Properties.Editor.dll
+ (0,0): [10/01/2018 11:34:41.574 AM] Unity.VectorGraphics.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.VectorGraphics.Editor.dll
+ (0,0): [10/01/2018 11:34:41.594 AM] Unity.Properties.Codegen.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:41.601 AM] Unity.Properties.Editor.dll compilation finished in 237ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:41.606 AM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [10/01/2018 11:34:41.649 AM] Unity.VectorGraphics.Editor.dll compilation finished in 153ms  source files re-parsed: 5 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:41.671 AM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Properties.Codegen.dll
+ (0,0): [10/01/2018 11:34:41.688 AM] Unity.Burst.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:41.700 AM] Unity.Burst.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:41.742 AM] Unity.Properties.Codegen.dll compilation finished in 135ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:41.768 AM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Burst.Editor.dll
+ (0,0): [10/01/2018 11:34:41.865 AM] Unity.Burst.Editor.dll compilation finished in 164ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:41.994 AM] Unity.Analytics.Android.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:42.006 AM] Unity.Analytics.Android.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:42.036 AM] Unity.Analytics.Android.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Analytics.Android.Editor.dll
+ (0,0): [10/01/2018 11:34:42.077 AM] Unity.Analytics.Android.Editor.dll compilation finished in 71ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:42.098 AM] Unity.InternalAPIEditorBridge.001.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:42.111 AM] Unity.InternalAPIEditorBridge.001.dll compiling...
+ (0,0): [10/01/2018 11:34:42.141 AM] Unity.InternalAPIEditorBridge.001.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.InternalAPIEditorBridge.001.dll
+ (0,0): [10/01/2018 11:34:42.172 AM] Unity.InternalAPIEditorBridge.001.dll compilation finished in 61ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:42.399 AM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:42.411 AM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:42.595 AM] Unity.2D.Animation.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:42.607 AM] Unity.2D.Animation.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:42.609 AM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/01/2018 11:34:42.751 AM] Unity.2D.SpriteShape.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:42.763 AM] Unity.2D.SpriteShape.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:42.865 AM] Unity.2D.Animation.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.Animation.Editor.dll
+ (0,0): [10/01/2018 11:34:42.871 AM] Unity.TextMeshPro.Editor.dll compilation finished in 460ms  source files re-parsed: 40 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:42.912 AM] Unity.2D.SpriteShape.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.2D.SpriteShape.Editor.dll
+ (0,0): [10/01/2018 11:34:42.945 AM] Unity.2D.Animation.Editor.dll compilation finished in 337ms  source files re-parsed: 62 metadata reloaded: 4
+ (0,0): [10/01/2018 11:34:43.010 AM] Unity.2D.SpriteShape.Editor.dll compilation finished in 246ms  source files re-parsed: 20 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:43.482 AM] Unity.Entities.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:43.495 AM] Unity.Entities.dll compiling...
+ (0,0): [10/01/2018 11:34:43.718 AM] Unity.Jobs.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:43.733 AM] Unity.Jobs.dll compiling...
+ (0,0): [10/01/2018 11:34:43.772 AM] Unity.Jobs.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Jobs.dll
+ (0,0): [10/01/2018 11:34:43.776 AM] Unity.Entities.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.dll
+ (0,0): [10/01/2018 11:34:43.808 AM] Unity.Jobs.dll compilation finished in 75ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:43.882 AM] Unity.Entities.dll compilation finished in 387ms  source files re-parsed: 56 metadata reloaded: 2
+ (0,0): [10/01/2018 11:34:44.294 AM] Unity.Jobs.Editor.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:44.307 AM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [10/01/2018 11:34:44.333 AM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Jobs.Editor.dll
+ (0,0): [10/01/2018 11:34:44.366 AM] Unity.Jobs.Editor.dll compilation finished in 58ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:45.462 AM] Unity.Entities.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:45.475 AM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:45.513 AM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [10/01/2018 11:34:45.562 AM] Unity.Entities.Hybrid.dll compilation finished in 87ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:46.164 AM] package.guerro.shared.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:46.176 AM] package.guerro.shared.dll compiling...
+ (0,0): [10/01/2018 11:34:46.235 AM] package.guerro.shared.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\package.guerro.shared.dll
+ (0,0): [10/01/2018 11:34:46.248 AM] package.guerro.shared.dll compilation finished in 72ms  source files re-parsed: 53 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:46.265 AM] Unity.Transforms.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:46.277 AM] Unity.Transforms.dll compiling...
+ (0,0): [10/01/2018 11:34:46.361 AM] Unity.Transforms.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Transforms.dll
+ (0,0): [10/01/2018 11:34:46.406 AM] Unity.Transforms.dll compilation finished in 129ms  source files re-parsed: 8 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:46.975 AM] Unity.Entities.Properties.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:46.987 AM] Unity.Entities.Properties.dll compiling...
+ (0,0): [10/01/2018 11:34:47.042 AM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Entities.Properties.dll
+ (0,0): [10/01/2018 11:34:47.068 AM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:47.080 AM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:47.088 AM] Unity.Entities.Properties.dll compilation finished in 101ms  source files re-parsed: 4 metadata reloaded: 1
+ (0,0): [10/01/2018 11:34:47.120 AM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [10/01/2018 11:34:47.171 AM] Unity.Rendering.Hybrid.dll compilation finished in 91ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [10/01/2018 11:34:47.179 AM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache
+ (0,0): [10/01/2018 11:34:47.191 AM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [10/01/2018 11:34:47.226 AM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\guerr\Documents\Projets\Patapon\Experiments\PataponMPExperiment_RythmAndMovement\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [10/01/2018 11:34:47.259 AM] Unity.Transforms.Hybrid.dll compilation finished in 68ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): watchdog triggered an exit

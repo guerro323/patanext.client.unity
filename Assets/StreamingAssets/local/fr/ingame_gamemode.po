@@ -1,0 +1,64 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "Carte: {0}"
+
+msgctxt "Global|Map"
+msgid "By: {0}"
+msgstr "Par: {0}"
+
+msgctxt "Global|Map"
+msgid "BGM: {0}"
+msgstr "Musique: {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Go!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "1 minute restante!"
+
+msgctxt "HeadOn"
+msgid "{0} minutes left!"
+msgstr "{0} minutes restantes!"
+
+msgctxt "HeadOn"
+msgid "{0} flag captured!"
+msgstr "Drapeau des {0} capturé!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Mort Subite!"
+
+msgctxt "HeadOn"
+msgid "{0} is on a streak!"
+msgstr "{0} enchaine les éliminations!"
+
+msgctxt "HeadOn"
+msgid "First Takedown!"
+msgstr "Premier tombé!"
+
+msgctxt "HeadOn"
+msgid "1 elimination"
+msgstr "1 élimination"
+
+msgctxt "HeadOn"
+msgid "{0} eliminations"
+msgstr "{0} éliminations"
+
+msgctxt "HeadOn"
+msgid "{0} ended {1} streak!"
+msgstr "{0} a terminé le ravage de {1}!"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "Équipe {0} abandonne"
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "Équipe {0} gagne!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "Équipe {0} a fait la dernière élimination!"
+

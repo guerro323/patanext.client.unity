@@ -1,0 +1,20 @@
+{
+    "systemTypes": [
+        "DataScripts.Interface.Popup.PopupDescription, package.patapon.client, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Patapon.Mixed.RhythmEngine.RhythmEngineDescription, package.patapon.mixed, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Patapon.Mixed.Units.UnitDescription, package.patapon.mixed, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Patapon.Mixed.Units.UnitTargetDescription, package.patapon.mixed, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.ActionDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.ActionHolderDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.CharacterDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.Components.BuffModifierDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.Components.ClubDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.Components.HealthDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.HitShapeDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.LivableDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.MovableDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.PlayerDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.ProjectileDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "StormiumTeam.GameBase.TeamDescription, package.stormiumteam.gamebase, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+}

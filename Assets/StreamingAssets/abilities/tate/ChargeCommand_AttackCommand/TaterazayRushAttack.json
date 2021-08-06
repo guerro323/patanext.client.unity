@@ -1,0 +1,22 @@
+{
+    "modifiers": 
+    [
+        {
+            "id": "active",
+            "attack": 2,
+            "movement_attack_speed": 2.8
+        },
+        {
+            "id": "fever",
+            "attack": 1.25,
+            "movement_attack_speed": 1.5,
+            "attack_speed": 0.75
+        },
+        {
+            "id": "perfect",
+            "attack": 1.25,
+            "movement_attack_speed": 1.25,
+            "attack_speed": 0.8
+        }
+    ]
+}

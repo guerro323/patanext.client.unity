@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ConvertTo2D
+  - Background
+  - Entities
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PhysicInteraction
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3377920775
+    locked: 0
+  - name: Background
+    uniqueID: 2483217603
+    locked: 0
+  - name: MovableStructures
+    uniqueID: 982469345
+    locked: 0
+  - name: Entities
+    uniqueID: 2865312267
+    locked: 0
+  - name: BattlegroundEffects
+    uniqueID: 146842825
+    locked: 0
+  - name: Ground
+    uniqueID: 722160623
+    locked: 0
+  - name: WorldUI
+    uniqueID: 2877340613
+    locked: 0
+  - name: OverlayUI
+    uniqueID: 3683171165
+    locked: 0

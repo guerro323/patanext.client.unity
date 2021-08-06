@@ -1,0 +1,13 @@
+{
+    "name": "MapTest",
+    "description": "Topkek",
+    "addrPrefix": "guerro.maps.testvs_",
+    "clientScenes":
+    [
+        "client.scene"
+    ],
+    "serverScenes":
+    [
+        "server.scene"
+    ]
+}

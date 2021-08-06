@@ -1,0 +1,30 @@
+{
+    "name": "Test Song",
+    "description": "This is a test song lol",
+    "identifier": "test_song",
+    "bgmAudioFull": null,
+    "bgmAudioSliced": {
+        "normal": [
+            "bgm::b0.wav",
+            "bgm::b1.wav",
+            "bgm::b2.wav"
+        ],
+        "feverentrance": [
+            "bgm::b3.wav",
+            "bgm::b4.wav",
+            "bgm::b5.wav",
+            "bgm::b6.wav"
+        ]
+    },
+    "commandsAudio": {
+      "march": {
+        "normal": [
+          "::normal_pata_0.wav"
+        ],
+        "fever": [
+          "::fever_pata_0.wav",
+          "::fever_pata_1.wav"
+        ]
+      }
+    }
+  }

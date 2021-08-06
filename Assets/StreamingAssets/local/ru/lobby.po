@@ -1,0 +1,20 @@
+﻿msgctxt "Room"
+msgid "Refresh"
+msgstr "Обновить"
+
+msgctxt "Room"
+msgid "Join"
+msgstr "Присоединиться"
+
+msgctxt "Room"
+msgid "Create"
+msgstr "Создать"
+
+msgctxt "Room"
+msgid "Slots"
+msgstr "Слоты"
+
+msgctxt "Room|UserList"
+msgid "Users"
+msgstr "Пользователи"
+

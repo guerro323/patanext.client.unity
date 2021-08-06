@@ -1,0 +1,52 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "Mapa: {0}"
+
+msgctxt "Global|Map"
+msgid "By: {0}"
+msgstr "Por: {0}"
+
+msgctxt "Global|Map"
+msgid "BGM: {0}"
+msgstr "BGM: {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Vai!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "Resta 1 minuto!"
+
+msgctxt "HeadOn"
+msgid "{0} flag captured!"
+msgstr "Bandeira {0} capturada!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Morte Súbita!"
+
+msgctxt "HeadOn"
+msgid "{0} is on a streak!"
+msgstr "{0} está numa cadeia de eliminações!"
+
+msgctxt "HeadOn"
+msgid "{0} eliminations"
+msgstr "{0} eliminações."
+
+msgctxt "HeadOn"
+msgid "{0} ended {1} streak!"
+msgstr "{0} acabou a cadeia de {1}!"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "A equipa {0} rende-se."
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "A equipa {0} vence!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "A equipa {0} fez a última eliminação!"
+

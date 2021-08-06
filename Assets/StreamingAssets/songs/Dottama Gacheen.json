@@ -1,0 +1,168 @@
+{
+    "name": "Dottama Gacheen",
+    "description": "Versus Theme",
+    "identifier": "dottama_gacheen",
+    "bgmAudioFull": null,
+    "bgmAudioSliced": {
+        "normal_entrance": [
+            "{p}b0.wav"
+        ],
+        "normal_0": [
+            "{p}b1.wav"
+        ],
+        "normal_1": [
+            "{p}b2.wav"
+        ],
+        "normal_2": [
+            "{p}b3.wav"
+        ],
+        "normal_3": [
+            "{p}b4.wav"
+        ],
+        "normal_4": [
+            "{p}b5.wav"
+        ],
+        "normal_5": [
+            "{p}b6.wav"
+        ],
+        "normal_6": [
+            "{p}b7.wav"
+        ],
+        "normal_7": [
+            "{p}b8.wav"
+        ],
+        "normal_8": [
+            "{p}b9.wav"
+        ],
+        "normal_9": [
+            "{p}b10.wav"
+        ],
+        "fever_entrance": [
+            "{p}fever_entrance.wav"
+        ],
+        "fever": [
+            "{p}f0.wav",
+            "{p}f1.wav",
+            "{p}f2.wav",
+            "{p}f3.wav",
+            "{p}f4.wav",
+            "{p}f5.wav",
+            "{p}f6.wav",
+            "{p}f7.wav",
+            "{p}f8.wav",
+            "{p}f9.wav",
+            "{p}f10.wav",
+            "{p}f11.wav",
+            "{p}f12.wav",
+            "{p}f13.wav",
+            "{p}f14.wav",
+            "{p}f15.wav"
+        ]
+    },
+    "commandsAudio": {
+        "march": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg",
+                "{p}fever_1.ogg"
+            ]
+        },
+        "backward": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg",
+                "{p}fever_1.ogg"
+            ]
+        },
+        "attack": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg",
+                "{p}fever_1.ogg"
+            ]
+        },
+        "defend": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg",
+                "{p}fever_1.ogg"
+            ]
+        },
+        "skip": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg",
+                "{p}fever_1.ogg"
+            ]
+        },
+        "charge": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg"
+            ]
+        },
+        "retreat": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg"
+            ]
+        },
+        "jump": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg"
+            ]
+        },
+        "party": {
+            "normal": [
+                "{p}normal_0.ogg"
+            ],
+            "prefever": [
+                "{p}prefever_0.ogg"
+            ],
+            "fever": [
+                "{p}fever_0.ogg"
+            ]
+        }
+    }
+}

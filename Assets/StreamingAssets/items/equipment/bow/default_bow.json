@@ -1,0 +1,12 @@
+{
+    "displayName": "Default Greatshield",
+    "statistics":
+    {
+        "base":
+        {
+            "health": 10,
+            "defense": 10,
+            "weight": 6
+        }
+    }
+}

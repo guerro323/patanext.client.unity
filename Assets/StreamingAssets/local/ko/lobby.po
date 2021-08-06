@@ -1,0 +1,20 @@
+﻿msgctxt "Room"
+msgid "Refresh"
+msgstr "새로 고침"
+
+msgctxt "Room"
+msgid "Join"
+msgstr "입장"
+
+msgctxt "Room"
+msgid "Create"
+msgstr "생성"
+
+msgctxt "Room"
+msgid "Slots"
+msgstr "슬롯"
+
+msgctxt "Room|UserList"
+msgid "Users"
+msgstr "유저"
+

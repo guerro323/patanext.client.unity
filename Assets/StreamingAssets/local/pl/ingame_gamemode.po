@@ -1,0 +1,60 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "Mapa: {0}"
+
+msgctxt "Global|Map"
+msgid "By: {0}"
+msgstr "Przez: {0}"
+
+msgctxt "Global|Map"
+msgid "BGM: {0}"
+msgstr "Muzyka: {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Naprzód!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "Została 1 minuta!"
+
+msgctxt "HeadOn"
+msgid "{0} minutes left!"
+msgstr "Zostało {0} minut!"
+
+msgctxt "HeadOn"
+msgid "{0} flag captured!"
+msgstr "{0} flaga zdobyta!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Nagła śmierć!"
+
+msgctxt "HeadOn"
+msgid "{0} is on a streak!"
+msgstr "Seria Zabójstw"
+
+msgctxt "HeadOn"
+msgid "1 elimination"
+msgstr "1 eliminacja"
+
+msgctxt "HeadOn"
+msgid "{0} eliminations"
+msgstr "{0} eliminacji"
+
+msgctxt "HeadOn"
+msgid "{0} ended {1} streak!"
+msgstr "{0} zakończył serię zabić!"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "Drużyna {0} poddaje się"
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "Drużyna {0} wygrywa!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "Drużyna {0} dokonała ostatniej eliminacji!"
+

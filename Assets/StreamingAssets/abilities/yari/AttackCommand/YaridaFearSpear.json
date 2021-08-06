@@ -1,0 +1,10 @@
+{
+    "modifiers": [
+        {
+            "id": "active",
+            "attack": 1.75,
+            "movement_attack_speed": 1.75,
+            "movement_return_speed": 1.25
+        }
+    ]
+}

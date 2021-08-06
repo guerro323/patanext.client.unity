@@ -1,0 +1,28 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "Térkép {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Menj!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "1 perc maradt hátra!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Hirtelen halál"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "A {0} csapat feladta a harcot"
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "A {0} csapat nyert!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "A {0} csapat gyilkolt utoljára! "
+

@@ -1,0 +1,10 @@
+{
+	"name": "grpc",
+	"displayName":"GRPC",
+	"version": "0.1.3",
+	"unity": "2018.3",
+	"description": "Unity's ingame UI system. This use to be published on https://bitbucket.org/Unity-Technologies/ui/overview but is now avaliable as a package.",
+	"keywords": ["UI", "ugui", "Unity UI", "Canvas"],
+	"dependencies": {
+	}
+}

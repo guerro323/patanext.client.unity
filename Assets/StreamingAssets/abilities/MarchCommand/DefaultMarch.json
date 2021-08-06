@@ -1,0 +1,9 @@
+{
+    "modifiers": 
+    [
+        {
+            "id": "perfect",
+            "movement_speed": 1.2
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+﻿msgctxt "Name"
+msgid "critical"
+msgstr "Critique"
+
+msgctxt "Name"
+msgid "piercing"
+msgstr "Percer"
+
+msgctxt "Name"
+msgid "knockback"
+msgstr "Repli"
+
+msgctxt "Name"
+msgid "stagger"
+msgstr "Stup."
+
+msgctxt "Name"
+msgid "burn"
+msgstr "Brûler"
+
+msgctxt "Name"
+msgid "sleep"
+msgstr "Endormir"
+
+msgctxt "Name"
+msgid "freeze"
+msgstr "Geler"
+
+msgctxt "Name"
+msgid "poison"
+msgstr "Poison"
+
+msgctxt "Name"
+msgid "tumble"
+msgstr "Chute"
+
+msgctxt "Name"
+msgid "wind"
+msgstr "Vent"
+
+msgctxt "Name"
+msgid "silence"
+msgstr "Silence"
+

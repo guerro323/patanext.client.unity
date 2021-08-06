@@ -1,0 +1,8 @@
+{
+    "modifiers": [
+        {
+            "id": "active",
+            "receive_damage": 0.4
+        }
+    ]
+}

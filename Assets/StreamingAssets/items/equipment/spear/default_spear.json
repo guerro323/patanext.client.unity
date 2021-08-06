@@ -1,0 +1,12 @@
+{
+    "displayName": "Default Spear",
+    "statistics":
+    {
+        "base":
+        {
+            "health": 10,
+            "defense": 10,
+            "weight": 6
+        }
+    }
+}

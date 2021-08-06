@@ -1,0 +1,17 @@
+{
+    "modifiers": 
+    [
+        {
+            "id": "active",
+            "receive_damage": 0.9
+        },
+        {
+            "id": "fever",
+            "receive_damage": 0.9
+        },
+        {
+            "id": "perfect",
+            "receive_damage": 0.9
+        }
+    ]
+}

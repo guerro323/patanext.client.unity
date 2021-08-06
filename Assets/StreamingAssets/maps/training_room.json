@@ -1,0 +1,13 @@
+{
+    "name": "MapTest",
+    "description": "Topkek",
+    "addrPrefix": "Assets/Scenes/TrainingRoom/TrainingRoom",
+    "clientScenes":
+    [
+        "Client.unity"
+    ],
+    "serverScenes":
+    [
+        "Server.unity"
+    ]
+}

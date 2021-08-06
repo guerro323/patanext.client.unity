@@ -1,0 +1,315 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:7
+-out:C:/Users/guerr/Documents/Projets/Patapon/Experiments/PataponMPExperiment_RythmAndMovement/Temp/com.unity.2d.spriteshape.Runtime.dll
+-nostdlib
+-unsafe
+-r:C:/Users/guerr/Documents/Projets/Patapon/Experiments/PataponMPExperiment_RythmAndMovement/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/UnityEditor.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\Managed/Unity.Locator.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"G:/Program Files (x86)/Unity 2018.3.0a3/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.common@1.0.10-preview/Tests/Editor/Lib/NSubstitute/NSubstitute.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.collections@0.0.9-preview.3/System.Runtime.CompilerServices.Unsafe.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.9-preview/Editor/Serialization/External/Cecil/Mono.Cecil.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.9-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Mdb.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.9-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Pdb.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.properties@0.2.9-preview/Editor/Serialization/External/Cecil/Mono.Cecil.Rocks.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.purchasing@2.0.1/UnityEngine.Purchasing.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.purchasing@2.0.1/Editor/UnityEditor.Purchasing.dll
+-r:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+-r:C:/Users/guerr/Documents/Projets/Common/Packages/package.stormiumteam.shared/Plugins/Newtonsoft/Newtonsoft.Json.dll
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\Microsoft.Win32.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.AppContext.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Concurrent.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.NonGeneric.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Specialized.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.TypeConverter.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Console.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Data.Common.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Contracts.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Debug.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Process.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.StackTrace.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tools.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TraceSource.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tracing.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Drawing.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Dynamic.Runtime.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Calendars.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Extensions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.ZipFile.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Watcher.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.IsolatedStorage.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.MemoryMappedFiles.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Pipes.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Expressions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Parallel.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Queryable.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Http.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NameResolution.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NetworkInformation.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Ping.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Requests.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Security.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Sockets.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebHeaderCollection.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.Client.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ObjectModel.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Extensions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Reader.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.ResourceManager.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Writer.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Extensions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Handles.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Numerics.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Json.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Xml.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Claims.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Csp.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Encoding.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Primitives.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Principal.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.SecureString.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.Extensions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.RegularExpressions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Overlapped.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.Parallel.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Thread.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.ThreadPool.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Timer.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ValueTuple.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.ReaderWriter.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XDocument.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlDocument.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlSerializer.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.XDocument.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\Extensions\2.0.0\System.Numerics.Vectors.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\mscorlib.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ComponentModel.Composition.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Core.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Data.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Drawing.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.IO.Compression.FileSystem.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Net.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Numerics.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Runtime.Serialization.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ServiceModel.Web.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Transactions.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Web.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Windows.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Linq.dll"
+-r:"G:\Program Files (x86)\Unity 2018.3.0a3\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll"
+-d:UNITY_5_3_OR_NEWER
+-d:UNITY_5_4_OR_NEWER
+-d:UNITY_5_5_OR_NEWER
+-d:UNITY_5_6_OR_NEWER
+-d:UNITY_2017_1_OR_NEWER
+-d:UNITY_2017_2_OR_NEWER
+-d:UNITY_2017_3_OR_NEWER
+-d:UNITY_2018_1_OR_NEWER
+-d:UNITY_2018_2_OR_NEWER
+-d:UNITY_2018_3_OR_NEWER
+-d:UNITY_2018_3_0
+-d:UNITY_2018_3
+-d:UNITY_2018
+-d:PLATFORM_ARCH_64
+-d:UNITY_64
+-d:UNITY_INCLUDE_TESTS
+-d:UNITY_ANALYTICS
+-d:ENABLE_AUDIO
+-d:ENABLE_CACHING
+-d:ENABLE_CLOTH
+-d:ENABLE_DUCK_TYPING
+-d:ENABLE_MICROPHONE
+-d:ENABLE_MULTIPLE_DISPLAYS
+-d:ENABLE_PHYSICS
+-d:ENABLE_SPRITES
+-d:ENABLE_GRID
+-d:ENABLE_TILEMAP
+-d:ENABLE_TERRAIN
+-d:ENABLE_TEXTURE_STREAMING
+-d:ENABLE_DIRECTOR
+-d:ENABLE_UNET
+-d:ENABLE_LZMA
+-d:ENABLE_UNITYEVENTS
+-d:ENABLE_WEBCAM
+-d:ENABLE_WWW
+-d:ENABLE_CLOUD_SERVICES_COLLAB
+-d:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-d:ENABLE_CLOUD_SERVICES_ADS
+-d:ENABLE_CLOUD_HUB
+-d:ENABLE_CLOUD_PROJECT_ID
+-d:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-d:ENABLE_CLOUD_SERVICES_UNET
+-d:ENABLE_CLOUD_SERVICES_BUILD
+-d:ENABLE_CLOUD_LICENSE
+-d:ENABLE_EDITOR_HUB
+-d:ENABLE_EDITOR_HUB_LICENSE
+-d:ENABLE_WEBSOCKET_CLIENT
+-d:ENABLE_DIRECTOR_AUDIO
+-d:ENABLE_DIRECTOR_TEXTURE
+-d:ENABLE_TIMELINE
+-d:ENABLE_EDITOR_METRICS
+-d:ENABLE_EDITOR_METRICS_CACHING
+-d:ENABLE_MANAGED_JOBS
+-d:ENABLE_MANAGED_TRANSFORM_JOBS
+-d:ENABLE_MANAGED_ANIMATION_JOBS
+-d:INCLUDE_DYNAMIC_GI
+-d:INCLUDE_GI
+-d:ENABLE_MONO_BDWGC
+-d:PLATFORM_SUPPORTS_MONO
+-d:RENDER_SOFTWARE_CURSOR
+-d:INCLUDE_PUBNUB
+-d:ENABLE_VIDEO
+-d:ENABLE_CUSTOM_RENDER_TEXTURE
+-d:ENABLE_LOCALIZATION
+-d:PLATFORM_STANDALONE_WIN
+-d:PLATFORM_STANDALONE
+-d:UNITY_STANDALONE_WIN
+-d:UNITY_STANDALONE
+-d:ENABLE_SUBSTANCE
+-d:ENABLE_RUNTIME_GI
+-d:ENABLE_MOVIES
+-d:ENABLE_NETWORK
+-d:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-d:ENABLE_UNITYWEBREQUEST
+-d:ENABLE_CLOUD_SERVICES
+-d:ENABLE_CLOUD_SERVICES_ANALYTICS
+-d:ENABLE_CLOUD_SERVICES_PURCHASING
+-d:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-d:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-d:ENABLE_EVENT_QUEUE
+-d:ENABLE_CLUSTER_SYNC
+-d:ENABLE_CLUSTERINPUT
+-d:ENABLE_VR
+-d:ENABLE_AR
+-d:ENABLE_WEBSOCKET_HOST
+-d:ENABLE_MONO
+-d:NET_STANDARD_2_0
+-d:ENABLE_PROFILER
+-d:DEBUG
+-d:TRACE
+-d:UNITY_ASSERTIONS
+-d:UNITY_EDITOR
+-d:UNITY_EDITOR_64
+-d:UNITY_EDITOR_WIN
+-d:ENABLE_UNITY_COLLECTIONS_CHECKS
+-d:ENABLE_BURST_AOT
+-d:UNITY_TEAM_LICENSE
+-d:UNITY_POST_PROCESSING_STACK_V2
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/BezierUtility.cs
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/Clipper.cs
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/Spline.cs
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/SplineUtility.cs
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/SpriteShape.cs
+-i:C:/Users/guerr/AppData/Local/Unity/cache/packages/staging-packages.unity.com/com.unity.2d.spriteshape@1.0.10-preview.2/Runtime/SpriteShapeController.cs
+-v:1

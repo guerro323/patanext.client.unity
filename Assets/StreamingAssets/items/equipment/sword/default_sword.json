@@ -1,0 +1,12 @@
+{
+    "displayName": "Default Sword",
+    "statistics":
+    {
+        "base":
+        {
+            "health": 10,
+            "defense": 5,
+            "weight": 1
+        }
+    }
+}

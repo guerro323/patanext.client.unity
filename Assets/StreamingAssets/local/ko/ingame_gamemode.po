@@ -1,0 +1,60 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "지도: {0}"
+
+msgctxt "Global|Map"
+msgid "By: {0}"
+msgstr "By: {0}"
+
+msgctxt "Global|Map"
+msgid "BGM: {0}"
+msgstr "BGM: {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Go!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "1분 남음!"
+
+msgctxt "HeadOn"
+msgid "{0} minutes left!"
+msgstr "{0}분 남음!"
+
+msgctxt "HeadOn"
+msgid "{0} flag captured!"
+msgstr "{0}의 깃발이 탈취되었습니다!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Sudden Death!"
+
+msgctxt "HeadOn"
+msgid "{0} is on a streak!"
+msgstr "{0}이 파죽지세입니다!"
+
+msgctxt "HeadOn"
+msgid "1 elimination"
+msgstr "1명 제거"
+
+msgctxt "HeadOn"
+msgid "{0} eliminations"
+msgstr "{0}명 제거"
+
+msgctxt "HeadOn"
+msgid "{0} ended {1} streak!"
+msgstr "{0} 가 {1} 를 처지했습니다!"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "{0}팀이 항복했습니다"
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "{0}팀 승리!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "{0}팀 마지막 상대 처치!"
+

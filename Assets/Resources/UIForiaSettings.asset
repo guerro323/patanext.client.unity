@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e5d37375f7054438e922802e0594e5, type: 3}
+  m_Name: UIForiaSettings
+  m_EditorClassIdentifier: 
+  batchedMaterial: {fileID: 2100000, guid: c26de1ccc16173548a4cd0c13d0a20c6, type: 2}
+  sdfPathMaterial: {fileID: 2100000, guid: 0749832e354a06f4591a846be3c4f32a, type: 2}
+  spriteAtlasMaterial: {fileID: 2100000, guid: 0dcbff9dac94d294781fd66b2de2a169, type: 2}
+  clearClipRegionsMaterial: {fileID: 2100000, guid: 98510fc5c8e2acf4db654ac7d8f59911,
+    type: 2}
+  clipCountMaterial: {fileID: 2100000, guid: 72c08badf2a845144a2b5e07fa88a1be, type: 2}
+  clipBlitMaterial: {fileID: 2100000, guid: 30ae5d8534b9ac242949e566637d935f, type: 2}

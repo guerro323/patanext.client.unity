@@ -1,0 +1,20 @@
+﻿msgctxt "Room"
+msgid "Refresh"
+msgstr "Frissítés"
+
+msgctxt "Room"
+msgid "Join"
+msgstr "Csatlakozás"
+
+msgctxt "Room"
+msgid "Create"
+msgstr "Szoba készítése"
+
+msgctxt "Room"
+msgid "Slots"
+msgstr "Szabad helyek"
+
+msgctxt "Room|UserList"
+msgid "Users"
+msgstr "Felhasználók"
+

@@ -1,0 +1,37 @@
+{
+    "modifiers": 
+    [
+        {
+            "id": "active",
+            "attack": 0.5,
+            "receive_damage": 0.75,
+            "defense": 1.4
+        },
+        {
+            "id": "fever",
+            "attack": 1.2,
+            "movement_attack_speed": 1.8,
+            "movement_return_speed": 1.2,
+            "attack_speed": 0.9,
+            "receive_damage": 0.8,
+            "defense": 1.2
+        },
+        {
+            "id": "perfect",
+            "attack": 1.2,
+            "movement_attack_speed": 1.2,
+            "movement_return_speed": 1.2,
+            "attack_speed": 0.6,
+            "receive_damage": 0.9,
+            "defense": 1.2
+        },
+        {
+            "id": "charge",
+            "attack": 1.2,
+            "movement_attack_speed": 1.4,
+            "attack_speed": 0.9,
+            "receive_damage": 0.5,
+            "defense": 1.5
+        }
+    ]
+}

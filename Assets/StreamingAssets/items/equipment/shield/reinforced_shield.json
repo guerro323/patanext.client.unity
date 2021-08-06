@@ -1,0 +1,17 @@
+{
+    "displayName": "Reinforced Shield",
+    "statistics":
+    {
+        "base":
+        {
+            "health": 15,
+            "defense": 8,
+            "weight": 5
+        },
+        "modifiers":
+        {
+            "movement_speed": 0.9,
+            "movement_speed_attack": 0.9
+        }
+    }
+}

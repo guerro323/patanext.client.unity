@@ -1,0 +1,169 @@
+{
+    "name": "Test Song",
+    "description": "This is a test song lol",
+    "identifier": "megalovania",
+    "path": "file://[StreamingAssetsPath]/songs/megalovania",
+    "bgmAudioFull": null,
+    "bgmAudioSliced": {
+        "normal_entrance": [
+            "{p}b0.ogg"
+        ],
+        "normal_0": [
+            "{p}b1.ogg"
+        ],
+        "normal_1": [
+            "{p}b2.ogg"
+        ],
+        "normal_2": [
+            "{p}b3.ogg"
+        ],
+        "normal_3": [
+            "{p}b4.ogg"
+        ],
+        "normal_4": [
+            "{p}b5.ogg"
+        ],
+        "normal_5": [
+            "{p}b6.ogg"
+        ],
+        "normal_6": [
+            "{p}b7.ogg"
+        ],
+        "normal_7": [
+            "{p}b8.ogg"
+        ],
+        "normal_8": [
+            "{p}b9.ogg"
+        ],
+        "normal_9": [
+            "{p}b10.ogg"
+        ],
+        "fever_entrance": [
+            "{p}fever_entrance.ogg"
+        ],
+        "fever": [
+            "{p}f0.ogg",
+            "{p}f1.ogg",
+            "{p}f2.ogg",
+            "{p}f3.ogg",
+            "{p}f4.ogg",
+            "{p}f5.ogg",
+            "{p}f6.ogg",
+            "{p}f7.ogg",
+            "{p}f8.ogg",
+            "{p}f9.ogg",
+            "{p}f10.ogg",
+            "{p}f11.ogg",
+            "{p}f12.ogg",
+            "{p}f13.ogg",
+            "{p}f14.ogg",
+            "{p}f15.ogg"
+        ]
+    },
+    "commandsAudio": {
+        "march": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav",
+                "{p}fever_1.wav"
+            ]
+        },
+        "backward": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav",
+                "{p}fever_1.wav"
+            ]
+        },
+        "attack": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav",
+                "{p}fever_1.wav"
+            ]
+        },
+        "defend": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav",
+                "{p}fever_1.wav"
+            ]
+        },
+        "skip": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav",
+                "{p}fever_1.wav"
+            ]
+        },
+        "charge": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav"
+            ]
+        },
+        "retreat": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav"
+            ]
+        },
+        "jump": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav"
+            ]
+        },
+        "party": {
+            "normal": [
+                "{p}normal_0.wav"
+            ],
+            "prefever": [
+                "{p}prefever_0.wav"
+            ],
+            "fever": [
+                "{p}fever_0.wav"
+            ]
+        }
+    }
+}

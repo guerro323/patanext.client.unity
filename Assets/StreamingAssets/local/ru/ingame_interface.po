@@ -1,0 +1,8 @@
+﻿msgctxt "FWorm"
+msgid "FeverLabel"
+msgstr "Ярость!!"
+
+msgctxt "FWorm"
+msgid "ComboLabel"
+msgstr "Комбо!"
+

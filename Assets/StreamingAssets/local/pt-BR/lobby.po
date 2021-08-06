@@ -1,0 +1,20 @@
+﻿msgctxt "Room"
+msgid "Refresh"
+msgstr "Reiniciar"
+
+msgctxt "Room"
+msgid "Join"
+msgstr "Entrar"
+
+msgctxt "Room"
+msgid "Create"
+msgstr "Criar"
+
+msgctxt "Room"
+msgid "Slots"
+msgstr "Espaços"
+
+msgctxt "Room|UserList"
+msgid "Users"
+msgstr "Jogadores"
+

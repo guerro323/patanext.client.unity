@@ -1,0 +1,87 @@
+trackSelection = true
+fetchPreview = true
+wantsMore = false
+keepOpen = false
+itemIconSize = 17
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.B1CC2302" = "abilit"
+	"m_ShownPanels.B1CC2302" = "3"
+	"m_SideBarSplitter.B1CC2302" = "206"
+	"m_DetailsPanelSplitter.B1CC2302" = "1094"
+	"currentGroup.B1CC2302" = "scene"
+	"last_search.B6046BBC" = "YaridaIdle"
+	"asset.B6046BBC" = "True"
+	"menu.B6046BBC" = "True"
+	"scene.B6046BBC" = "True"
+	"settings.B6046BBC" = "True"
+	"m_ShownPanels.B6046BBC" = "3"
+	"m_SideBarSplitter.B6046BBC" = "205"
+	"m_DetailsPanelSplitter.B6046BBC" = "1095"
+	"currentGroup.B6046BBC" = "all"
+	"last_search.785D90A9" = "mysupermaterial"
+	"asset.785D90A9" = "True"
+	"menu.785D90A9" = "True"
+	"scene.785D90A9" = "True"
+	"settings.785D90A9" = "True"
+	"m_ShownPanels.785D90A9" = "3"
+	"m_SideBarSplitter.785D90A9" = "205"
+	"m_DetailsPanelSplitter.785D90A9" = "1095"
+	"currentGroup.785D90A9" = "all"
+}
+providers = {
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	object = {
+		active = true
+		priority = 55
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	query = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+}
+recentSearches = [
+	"YaridaIdle"
+	"cobblestone prefab"
+	"cobble"
+	"abilit"
+	"Ability"
+	"Pooled"
+	"boo"
+	"camera"
+]
+savedSearchesSortOrder = 0

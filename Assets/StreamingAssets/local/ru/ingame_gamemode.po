@@ -1,0 +1,64 @@
+﻿msgctxt "Global|Map"
+msgid "Map: {0}"
+msgstr "Карта: {0}"
+
+msgctxt "Global|Map"
+msgid "By: {0}"
+msgstr "От: {0}"
+
+msgctxt "Global|Map"
+msgid "BGM: {0}"
+msgstr "BGM: {0}"
+
+msgctxt "Global|GM"
+msgid "Go!"
+msgstr "Вперёд!"
+
+msgctxt "Global|GM"
+msgid "1 minute left!"
+msgstr "Осталась 1 минута!"
+
+msgctxt "HeadOn"
+msgid "{0} minutes left!"
+msgstr "{0} минут осталось!"
+
+msgctxt "HeadOn"
+msgid "{0} flag captured!"
+msgstr "{0} флаг захвачен!"
+
+msgctxt "HeadOn"
+msgid "Sudden Death!"
+msgstr "Внезапная Смерть!"
+
+msgctxt "HeadOn"
+msgid "{0} is on a streak!"
+msgstr "{0} совершает серию убийств!"
+
+msgctxt "HeadOn"
+msgid "First Takedown!"
+msgstr "Первая Ликвидация!"
+
+msgctxt "HeadOn"
+msgid "1 elimination"
+msgstr "1 устранение"
+
+msgctxt "HeadOn"
+msgid "{0} eliminations"
+msgstr "{0} устранений."
+
+msgctxt "HeadOn"
+msgid "{0} ended {1} streak!"
+msgstr "{0} завершил серию убийств {1}!"
+
+msgctxt "HeadOn"
+msgid "Team {0} surrender"
+msgstr "Команда {0} сдаётся."
+
+msgctxt "HeadOn"
+msgid "Team {0} wins!"
+msgstr "Команда {0} побеждает!"
+
+msgctxt "HeadOn"
+msgid "Team {0} made the last elimination!"
+msgstr "Команда {0} совершила последнее устранение!"
+
