@@ -2,36 +2,36 @@
     "BundleInfos": [
         {
             "BundleName": "st.pn",
-            "m_HashString": "e00efbe3654d25eace13cd53ef3b3fe6",
+            "m_HashString": "ad30ea5db94af90a96828813d84db1ad",
             "Dependencies": [
                 "Shared_e260cfa7296ee7642b167f1eb5be5023"
             ],
-            "Size": 20168279
+            "Size": 20272125
         },
         {
             "BundleName": "st.pnmaps",
-            "m_HashString": "e3d744cf4416942cc3463f76eb9fdb6e",
+            "m_HashString": "9e123c93c20ef25d15c90cb4f3350887",
             "Dependencies": [
                 "Shared_e260cfa7296ee7642b167f1eb5be5023",
                 "st.pn"
             ],
-            "Size": 215751
+            "Size": 214358
         },
         {
             "BundleName": "Shared_e260cfa7296ee7642b167f1eb5be5023",
-            "m_HashString": "9e99e7dcd1a82baa8e308b531f5dcdf2",
+            "m_HashString": "4c0aa40f5c15d4a494c8694466d85602",
             "Dependencies": [],
-            "Size": 23065
+            "Size": 23145
         },
         {
             "BundleName": "Shared_fc4af43bf8169c544a4eb3f76b9e1612",
             "m_HashString": "62a95d8a945add7e014b136bedef9fb3",
             "Dependencies": [],
-            "Size": 1962
+            "Size": 1963
         }
     ],
     "BuildTarget": "StandaloneWindows64",
-    "BuildTime": 637638623693305725,
+    "BuildTime": 637639285051688238,
     "RemoteURL": "http://localhost/",
-    "m_GlobalHash": "a4d2c894b1d9525f07069b36d52361ec"
+    "m_GlobalHash": "df576ba09fee6ae4dfd7c3fbb6eb931e"
 }
