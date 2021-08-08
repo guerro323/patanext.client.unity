@@ -14,12 +14,6 @@
       "dependencies": {},
       "hash": "3115efb67212a3abe973a270fb6d7705ebe8016e"
     },
-    "com.klang-games.uiforia": {
-      "version": "file:UIForia",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.nobi.roundedcorners": {
       "version": "file:com.nobi.roundedcorners@2cf5c829cc",
       "depth": 0,
